@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - player
+  - Ground
+  - Pipes
   - 
   - 
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Pipes
+    uniqueID: 1963129843
+    locked: 0
+  - name: Player
+    uniqueID: 718757967
+    locked: 0
+  - name: ground
+    uniqueID: 4113273153
     locked: 0
